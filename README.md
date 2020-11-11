@@ -9,17 +9,17 @@ As of November 2020 the skills were as follows:
 
 # Design and implement Microsoft 365 services
 ## Skill 1.1 Manage domains
-- add and configure additional domains
+- Add and configure additional domains
   - [Adding a domain to Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain?view=o365-worldwide)
-- configure user identities for new domain name
+- Configure user identities for new domain name
   - [Domains FAQ](https://docs.microsoft.com/en-us/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
-- configure workloads for new domain name
+- Configure workloads for new domain name
   - [DNS Basics](https://docs.microsoft.com/en-au/microsoft-365/admin/get-help-with-domains/dns-basics?view=o365-worldwide)
-- design domain name configuration
+- Design domain name configuration
   - [Domains FAQ: Can I add custom subdomains or multiple domains to Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-add-custom-subdomains-or-multiple-domains-to-microsoft-365)
-- set primary domain name
+- Set primary domain name
   - [Domains FAQ: How do I set or change the default domain in Microsoft 365?](https://docs.microsoft.com/en-us/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#how-do-i-set-or-change-the-default-domain-in-microsoft-365)
-- verify custom domain
+- Verify custom domain
   - [Adding a domain to Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
 
  Additional reading:
@@ -29,3 +29,5 @@ As of November 2020 the skills were as follows:
 
 
 ## Skill 1.2 Plan a Microsoft 365 implementation
+- Plan for Microsoft 365 on-premises infrastructure
+- Plan identity and authentication solution
