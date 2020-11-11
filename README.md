@@ -24,5 +24,8 @@ As of November 2020 the skills were as follows:
 
  Additional reading:
  - [Exchange Online DNS Records](https://docs.microsoft.com/en-us/microsoft-365/enterprise/external-domain-name-system-records?view=o365-worldwide)
+ - [Manage accepted domains in Exchange Online](https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+ - [Adding secondary email addresses](https://docs.microsoft.com/en-us/Exchange/recipients/user-mailboxes/email-addresses?view=exchserver-2019)
 
 
+## Skill 1.2 Plan a Microsoft 365 implementation
