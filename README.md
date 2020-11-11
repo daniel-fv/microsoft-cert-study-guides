@@ -1,5 +1,6 @@
-# ms-100-resources
-Resources for MS-100 Microsoft 365 certification exam.
+# MS-100 Resources
+**Study resources for the MS-100 Microsoft 365 certification exam.**
+
 The official list of skills measured is located here: https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100
 
 Microsoft keeps updating the requirements for the exam so it's always a good idea to check the official documentation. 
