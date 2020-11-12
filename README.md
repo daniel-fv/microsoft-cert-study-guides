@@ -30,4 +30,10 @@ As of November 2020 the skills were as follows:
 
 ## Skill 1.2 Plan a Microsoft 365 implementation
 - Plan for Microsoft 365 on-premises infrastructure
+  - [Microsoft 365 network connectivity principles](https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-network-connectivity-principles?view=o365-worldwide#new-office-365-endpoint-categories)
+  - [Office 365 URLs and IP address ranges](https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide)
+  - [Optimizing your network for Skype for Business Online](https://docs.microsoft.com/en-us/SkypeForBusiness/optimizing-your-network/optimizing-your-network?view=o365-worldwide)
+  - [Network and migration planning - Bandwidth planning](https://docs.microsoft.com/en-us/microsoft-365/enterprise/network-and-migration-planning?view=o365-worldwide)
+  - [Security roadmap - Top priorities for the first 30 days, 90 days, and beyond](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide)
 - Plan identity and authentication solution
+
