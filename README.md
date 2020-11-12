@@ -35,6 +35,7 @@ As of November 2020 the skills were as follows:
   - [Optimizing your network for Skype for Business Online](https://docs.microsoft.com/en-us/SkypeForBusiness/optimizing-your-network/optimizing-your-network?view=o365-worldwide)
   - [Network and migration planning - Bandwidth planning](https://docs.microsoft.com/en-us/microsoft-365/enterprise/network-and-migration-planning?view=o365-worldwide)
   - [Security roadmap - Top priorities for the first 30 days, 90 days, and beyond](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide)
+  
 - Plan identity and authentication solution
   - [Microsoft 365 identity models and Azure Active Directory](https://docs.microsoft.com/en-us/microsoft-365/enterprise/about-microsoft-365-identity?view=o365-worldwide)
   - [Assign administrator and non-administrator roles to users with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?context=azure/active-directory/users-groups-roles/context/ugr-context/)
